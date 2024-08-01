@@ -1,8 +1,8 @@
 # Melanoma Detection
-ML Model with Deep Learning and Neural Networks to evaluate the chance that a mole is cancerous (Melanoma).
+ML Model with Neural Networks to evaluate the chance that a mole is cancerous (Melanoma).
 
 ## Objective
-This project aims to leverage deep learning techniques to accurately classify skin lesions as benign or malignant based on image data. Early and reliable detection of melanoma can significantly improve treatment outcomes.
+This project aims to leverage deep learning techniques (CNN) to accurately classify skin lesions as benign or malignant based on image data. Early and reliable detection of melanoma can significantly improve treatment outcomes.
 
 ## Dataset
 Utilizing the [Melanoma Skin Cancer Dataset of 10,000 Images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) from Kaggle, which includes diverse skin lesion images categorized into benign and malignant classes.
